@@ -1,0 +1,22 @@
+.Container{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2%;
+
+}
+
+.Container hr{
+    position: absolute;
+    left:0;
+    width: 0%;
+    border: 1px solid #293E3A;
+}
+
+.Container h1{
+    color: #041215;
+    font-size: 40px;
+    margin: 0;
+    padding-top: 20px;
+}

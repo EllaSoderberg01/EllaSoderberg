@@ -1,0 +1,36 @@
+.About{
+    background-color: #CFD5D3;
+    padding-bottom: 5%;
+    color: #041215;
+}
+.About hr{
+    border: none;
+}
+
+.About .Container .Photo {
+   
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
+
+.About .Container .Photo .Me{
+    height: 500px;
+    border: 5px #041215 solid;
+    border-radius: 100%;
+}
+
+.About .Container {
+    display: flex;
+}
+
+.About .Container .Text{
+    width: 47%;
+    margin-left: 3%;
+    color: #041215;
+}
+.About .Container .Text h2{
+    font-weight: 900;
+    font-size: 40px;
+    
+}
